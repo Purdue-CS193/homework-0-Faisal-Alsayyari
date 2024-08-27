@@ -1,3 +1,13 @@
+# Faisal Alsayyari's First CS193 Homework
+
+My favorite things about CS193:
+- I just learned how to create this cool website!
+- Learning about these tools will help me collaborate with other programmers,
+- Create and share cool coding projects I build,
+- And contribute to other peoples' projects! 
+
+Anyways, I pushed down the default website content below. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
